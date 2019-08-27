@@ -1,0 +1,22 @@
+{
+  "name": "prototipo-requerimientos",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "index.html",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baxi19/Prototipo-Requerimientos.git"
+  },
+  "keywords": [
+    "420"
+  ],
+  "author": "Randald Villegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baxi19/Prototipo-Requerimientos/issues"
+  },
+  "homepage": "https://github.com/Baxi19/Prototipo-Requerimientos#readme"
+}
